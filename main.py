@@ -1,3 +1,5 @@
+pip install requests
+pip install flask
 from flask import Flask, request
 import requests
 from time import sleep
